@@ -1,4 +1,4 @@
-FROM ubuntu:precise
+FROM bradrydzewski/base
 
 WORKDIR /home/ubuntu
 USER ubuntu
