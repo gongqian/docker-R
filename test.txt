@@ -1,2 +1,0 @@
-Hello world. Sqrt(2) = 1.414213562373095
-testing
